@@ -1,5 +1,5 @@
 # Data-Visualization-Project
-<div class="css-2ufsf9"><h1 class="chakra-heading css-1igm2gp">Data Visualization Project</h1><p class="chakra-text css-w6pgo2"></p></div>
+<div class="css-2ufsf9"><p class="chakra-text css-w6pgo2"></p></div>
 <p>In this project, you'll create visualizations to reveal insights from a data set. You will create data visualizations that tell a story or highlight patterns in the data set. Your work should be a reflection of the theory and practice of data visualization, such as visual encodings, design principles, and effective communication.</p>
  <h2 id="1-flight-delays-and-cancellations">1) Flight Delays and Cancellations</h2>
  <p>This data comes from a Kaggle dataset, it tracks the on-time performance of US domestic flights operated by large air carriers in 2015. You can find the dataset in supporting materials at the bottom of this page.</p>
